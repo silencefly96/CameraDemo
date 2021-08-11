@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="camera_system">系统拍摄</string>
+    <string name="camera_custom">自定义拍摄</string>
+    <string name="camera_cameraX">cameraX拍摄</string>
+    <string name="camera_start">开始</string>
+    <string name="camera_pause">暂停</string>
+</resources>
